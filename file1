@@ -1,0 +1,9 @@
+echo 'enter the number:"
+read -num
+if [ $1 == $ 1 ]
+then
+echo (The given number is equal $num)
+else
+echo (The given number is not equal $num)
+fi
+
